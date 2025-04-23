@@ -1,0 +1,20 @@
+{
+  "name": "mvc-nodemailer-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js MVC web application using Express and Nodemailer to send emails.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "nodemailer": "^6.10.1"
+  }
+}
