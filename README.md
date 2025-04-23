@@ -54,7 +54,7 @@ mvc-nodemailer-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mvc-nodemailer-app.git
+git clone https://github.com/hasnaatmalik/node-mailer-mvc
 cd mvc-nodemailer-app
 ```
 
