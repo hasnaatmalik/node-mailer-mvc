@@ -55,7 +55,7 @@ mvc-nodemailer-app/
 
 ```bash
 git clone https://github.com/hasnaatmalik/node-mailer-mvc
-cd mvc-nodemailer-app
+cd node-mailer-mvc
 ```
 
 ### 2. Install Dependencies
